@@ -1,3 +1,3 @@
-<img src="screenshots/patra_changecover.gif"><br/>
+<img src="screenshots/patra_logo.PNG"><br/>
 # Patra
  An online Journal for everyone
