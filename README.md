@@ -2,6 +2,19 @@
 # Patra
  An online Journal for everyone
  
+ # How To set up project
+ 
+Install Laravel
+`composer global require laravel/installer`
+ 
+- clone Git
+- go inside project 
+``` 
+php artisan migrate
+php artisan serve
+```
+
+ 
 # ` Home Page`
 <img src="screenshots/patra_homepage.png"><br/>
 
