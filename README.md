@@ -8,7 +8,7 @@ Install Laravel
 ```
 composer global require laravel/installer
  ```
-clone Git
+clone Git<br>
 go inside project 
 ```
 php artisan migrate
