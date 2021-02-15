@@ -5,11 +5,12 @@
  # How To set up project
  
 Install Laravel
-`composer global require laravel/installer`
+```
+composer global require laravel/installer
  
-- clone Git
-- go inside project 
-``` 
+clone Git
+ go inside project 
+ 
 php artisan migrate
 php artisan serve
 ```
