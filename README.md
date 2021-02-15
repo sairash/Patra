@@ -23,9 +23,6 @@
 # ` Custom NoteBook Cover Maker`
 <img src="screenshots/patra_notebook_custom_cover_diary.gif"><br/>
 
-# ` Custom NoteBook Cover Maker`
-<img src="screenshots/patra_notebook_custom_cover_diary.gif"><br/>
-
 # ` Read diary`
 <img src="screenshots/patra_read_diary.gif"><br/>
 
