@@ -11,3 +11,23 @@
 
 # ` SignUp Page`
 <img src="screenshots/patra_signuppage.png"><br/>
+
+# ` Change NoteBook Cover Page`
+<img src="screenshots/patra_changecover.gif"><br/>
+
+
+# ` Change NoteBook Cover Color`
+<img src="screenshots/patra_changecover_color.gif"><br/>
+
+
+# ` Custom NoteBook Cover Maker`
+<img src="screenshots/patra_notebook_custom_cover_diary.gif"><br/>
+
+# ` Custom NoteBook Cover Maker`
+<img src="screenshots/patra_notebook_custom_cover_diary.gif"><br/>
+
+# ` Read diary`
+<img src="screenshots/patra_read_diary.gif"><br/>
+
+# ` Write diary`
+<img src="screenshots/patra_write_diary.gif"><br/>
