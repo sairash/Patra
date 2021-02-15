@@ -9,7 +9,7 @@ Install Laravel
 composer global require laravel/installer
  
 clone Git
- go inside project 
+go inside project 
  
 php artisan migrate
 php artisan serve
