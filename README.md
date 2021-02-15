@@ -8,3 +8,6 @@
 
 # ` Login Page`
 <img src="screenshots/patra_loginpage.png"><br/>
+
+# ` SignUp Page`
+<img src="screenshots/patra_signuppage.png"><br/>
