@@ -1,3 +1,4 @@
+![Patra](https://img.shields.io/github/license/sairash/Patra)<br/>
 <img src="screenshots/patra_logo.PNG"><br/>
 # Patra
  An online Journal for everyone
