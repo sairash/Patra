@@ -3,3 +3,4 @@
  An online Journal for everyone
  
 # ` Home Page`
+<img src="screenshots/patra_homepage.png"><br/>
