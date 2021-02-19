@@ -43,3 +43,6 @@ php artisan serve
 
 # ` Write diary`
 <img src="screenshots/patra_write_diary.gif"><br/>
+
+
+Enjoy!!
