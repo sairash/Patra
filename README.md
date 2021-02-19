@@ -45,4 +45,4 @@ php artisan serve
 <img src="screenshots/patra_write_diary.gif"><br/>
 
 
-Enjoy!!
+`Enjoy messing around with it!!`
